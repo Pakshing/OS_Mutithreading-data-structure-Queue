@@ -1,0 +1,3 @@
+/Users/pakshingkan/Desktop/FALL2020/CS149/Code/popularWords/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pakshingkan/Desktop/FALL2020/CS149/Code/popularWords/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pakshingkan/Desktop/FALL2020/CS149/Code/popularWords/cmake-build-debug/CMakeFiles/popularWords.dir
